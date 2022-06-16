@@ -1,3 +1,5 @@
+CKEDITOR5 with Classic Build Example
+
 # node modules
 
 npm install
