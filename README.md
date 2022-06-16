@@ -1,3 +1,11 @@
+# node modules
+
+npm install
+npm install --save @ckeditor/ckeditor5-angular
+
+npm install --save @ckeditor/ckeditor5-build-classic
+
+
 # Ckeditor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
